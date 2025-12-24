@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Web application security**
 
-- 🌱 I’m currently learning **Cloud security**
-
 - 👯 I’m looking to collaborate on **Security Researchers,Bug hunters**
 
 - 📫 How to reach me **singhlekhraj497@gmail.com**
