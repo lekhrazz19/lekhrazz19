@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lekhraj Singh</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lekhrazz19" alt="lekhrazz19" /></a> </p>
+
 
 - 🔭 I’m currently working on **Web application security**
 
