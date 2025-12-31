@@ -5,10 +5,9 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=700&color=00FF00&center=true&vCenter=true&width=1100&lines=Hi+I'm+Lekhii;Cybersecurity+Student;Bug+Bounty+Hunter;Web+%26+Blockchain+Security;Learning+by+Breaking+(Ethically)" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=700&color=00FF00&center=true&vCenter=true&width=1100&lines=Hii+I'm+Lekhii;Cybersecurity+Student;Bug+Bounty+Hunter;Web+Application%26+Blockchain+Security;Learning+by+Breaking+(Ethically)" />
 
 ---
-👨‍💻 About Me
 
 Cybersecurity student focused on web security, bug bounty hunting, and vulnerability research.
 Currently learning smart contract security, penetration testing, and security automation.
