@@ -71,6 +71,7 @@ Currently exploring:
 
 ---
 
+<div align="center">
 
 > **Keep breaking things. Learn why they broke.**
 
