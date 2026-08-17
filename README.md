@@ -71,19 +71,6 @@ Currently exploring:
 
 ---
 
-## GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lekhrazz19&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=lekhrazz19&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
 
 > **Keep breaking things. Learn why they broke.**
 
